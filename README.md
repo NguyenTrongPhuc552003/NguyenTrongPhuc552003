@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hi there! I'm Phúc — but you can call me "the guy who makes robots dance." 🤖✨
 
-<!--
-**NguyenTrongPhuc552003/NguyenTrongPhuc552003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Final-year embedded student learning the dark arts of kernel drivers and wireless sorcery.
+- 🐧 Currently battling with Embedded Linux on Rock Pi 5B+ and BeagleBone AI.
+- 🚀 Writing drivers from scratch, just because "it builds character."
+- 🧩 Obsessed with making things *modular*, *clean*, and *sometimes overly complicated*.
+- 🍵 Surviving on coffee, debugging logs, and pure hope.
 
-Here are some ideas to get you started:
+### 💻 Tech playgrounds:
+- Kernel driver stuff (`insmod && pray`)
+- Embedded C / C++ (occasionally readable)
+- Yocto builds (sometimes by accident)
+- BLE / WiFi / LTE wizardry
+- Working on a reinforcement-learning-controlled hexapod 🐜🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 Fun Fact:
+> *I once spent 3 hours fixing a typo in a Makefile and called it "learning."*
+
+---
+
+### 📈 GitHub Stats (because why not)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenTrongPhuc552003&show_icons=true&theme=tokyonight)
+
+---
+
+### 😎 Life motto:
+> "If it doesn’t work... write a kernel module. If it still doesn’t work… blame the hardware."  

@@ -1,7 +1,7 @@
 ## Hi there! I'm Phuc — but you can call me "the guy who makes robots dance (sometimes not)."
 
-- Final-year embedded student learning the dark arts of kernel drivers and wireless sorcery.
-- Currently battling with Embedded Linux on some old SBCs.
+- Experienced embedded engineer learning the dark arts of kernel drivers and wireless sorcery.
+- Currently battling with Embedded Linux on some "old" SBCs.
 - Writing drivers from scratch, just because "it builds character."
 - Obsessed with making things *modular*, *clean*, and *sometimes overly complicated*.
 - Surviving on coffee, debugging logs, and pure hope.
@@ -10,7 +10,7 @@
 - Kernel driver stuff (`insmod && pray`)
 - Embedded C / C++ (occasionally readable)
 - Yocto builds (sometimes by accident)
-- BLE / WiFi / GNSS wizardry
+- UART / I2C / SPI wizardry
 - Working on a reinforcement-learning-controlled hexapod
 
 ---

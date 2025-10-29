@@ -1,6 +1,6 @@
 ## Hi there! I'm Phuc — but you can call me "the guy who makes robots dance (sometimes not)."
 
-- Experienced embedded engineer learning the dark arts of kernel drivers and wireless sorcery.
+- Experienced embedded maker learning the dark arts of kernel drivers and wireless sorcery.
 - Currently battling with Embedded Linux on some "old" SBCs.
 - Writing drivers from scratch, just because "it builds character."
 - Obsessed with making things *modular*, *clean*, and *sometimes overly complicated*.

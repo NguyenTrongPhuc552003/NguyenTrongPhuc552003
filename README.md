@@ -1,29 +1,46 @@
-## Hi there! I'm Phuc — but you can call me "the guy who makes robots dance (sometimes not)."
+## Hi there, I'm Phuc  
+*(Occasionally known as the person who makes robots move — sometimes intentionally)*
 
-- Experienced embedded maker learning the dark arts of kernel drivers and wireless sorcery.
-- Currently battling with Embedded Linux on some "old" SBCs.
-- Writing drivers from scratch, just because "it builds character."
-- Obsessed with making things *modular*, *clean*, and *sometimes overly complicated*.
-- Surviving on coffee, debugging logs, and pure hope.
-
-### Tech playgrounds:
-- Kernel driver stuff (`insmod && pray`)
-- Embedded C / C++ (occasionally readable)
-- Yocto builds (sometimes by accident)
-- UART / I2C / SPI wizardry
-- Working on a reinforcement-learning-controlled hexapod
+I’m an embedded software engineer diving deep into **Embedded Linux**, **kernel internals**, and **low-level driver development**.  
+Most of my time is spent making hardware cooperate with software — or figuring out why it refuses to.
 
 ---
 
-### Fun Fact:
-> *I once spent 3 hours fixing a typo in a Makefile and called it "learning."*
+### What I work on
+- Linux kernel drivers (`insmod && hope_for_the_best`)
+- Embedded C / C++ with a focus on correctness and maintainability
+- Device trees, GPIOs, clocks, interrupts, and bus protocols
+- Yocto-based systems (including accidental rebuilds)
+- Wireless and low-level hardware interfaces
 
 ---
 
-### GitHub Stats (because why not)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenTrongPhuc552003&show_icons=true&theme=tokyonight)
+### Current focus
+- Embedded Linux user space & system architecture
+- Writing Linux device drivers from scratch
+- Kernel debugging and tracing
+- Reinforcement-learning control for a hexapod robot
 
 ---
 
-### Life motto:
-> "If it doesn’t work... write a kernel module. If it still doesn’t work… blame the hardware."  
+### Toolchain & platforms
+- Embedded Linux (Yocto, Buildroot)
+- UART / I2C / SPI
+- SBCs and custom boards
+- macOS as a development host (because pain builds character)
+
+---
+
+### Profile Overview:
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenTrongPhuc552003&theme=github_dark)
+
+---
+
+### Fun fact
+> I once spent three hours fixing a typo in a Makefile and labeled it “learning.”
+
+---
+
+### Motto
+> *If it doesn’t work, write a driver.  
+> If it still doesn’t work, blame the hardware.*

@@ -1,46 +1,62 @@
-## Hi there, I'm Phuc  
-*(Occasionally known as the person who makes robots move — sometimes intentionally)*
+<div align="center">
 
-I’m an embedded software engineer diving deep into **Embedded Linux**, **kernel internals**, and **low-level driver development**.  
-Most of my time is spent making hardware cooperate with software — or figuring out why it refuses to.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=240&section=header&text=Hi%20there%2C%20I'm%20Phuc&fontSize=48&fontAlignY=38&fontColor=ffffff)
 
----
+### Embedded Software Engineer | Linux Kernel & Low-Level Systems
 
-### What I work on
-- Linux kernel drivers (`insmod && hope_for_the_best`)
-- Embedded C / C++ with a focus on correctness and maintainability
-- Device trees, GPIOs, clocks, interrupts, and bus protocols
-- Yocto-based systems (including accidental rebuilds)
-- Wireless and low-level hardware interfaces
+*Making hardware and software work together - one driver at a time.*
 
 ---
 
-### Current focus
-- Embedded Linux user space & system architecture
-- Writing Linux device drivers from scratch
-- Kernel debugging and tracing
-- Reinforcement-learning control for a hexapod robot
+### Summary
+
+**Embedded Software Engineer** with hands-on experience in **Embedded Linux** system bring-up, kernel driver development, and cross-compilation workflows. Currently developing and maintaining Linux kernel modules and device drivers for multiple **Renesas RZ** platforms.
 
 ---
 
-### Toolchain & platforms
-- Embedded Linux (Yocto, Buildroot)
-- UART / I2C / SPI
-- SBCs and custom boards
-- macOS as a development host (because pain builds character)
+### What I'm Working On
+
+- Developing and maintaining **Linux kernel drivers** for Renesas RZ/G2L, RZ/G3S, RZ/V2H, and RZ/Five platforms
+- Building robust **Embedded Linux** systems using **Yocto**, CMake, and GNU toolchains
+- Creating automation scripts that reduced manual testing effort by **30-40%**
+- Low-level debugging and system optimization on embedded targets
+- Hexapod robot control systems using **BeagleBone** + custom Linux kernel
 
 ---
 
-### Profile Overview:
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenTrongPhuc552003&theme=github_dark)
+### Core Skills & Technologies
+
+**Languages & Tools**:
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+
+**Embedded & Systems**:
+- **Linux Kernel** • Device Drivers • Device Tree • Yocto • Buildroot
+- **CMake** • Makefiles • Cross-compilation Toolchains
+- **Renesas RZ Series** • BeagleBone • UART • I2C • SPI
+- Git • GitHub • GitLab • Jira
 
 ---
 
-### Fun fact
-> I once spent three hours fixing a typo in a Makefile and labeled it “learning.”
+### GitHub Stats
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenTrongPhuc552003&theme=tokyonight)
 
 ---
 
-### Motto
-> *If it doesn’t work, write a driver.  
-> If it still doesn’t work, blame the hardware.*
+### Fun Fact
+
+> I once spent **three hours** debugging a single typo in a Makefile...  
+> and proudly labeled the commit as *"learning experience"*.
+
+---
+
+### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phuc-nguyen-trong-880a782aa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trong552003@gmail.com)
+
+</div>
